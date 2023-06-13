@@ -1,0 +1,8 @@
+la versión de python que usé, es la 3.14.4
+los paquetes que necesité, son los siguientes:
+pip             23.1.2 
+python-dateutil 2.8.2  
+setuptools      67.7.2 
+six             1.16.0 
+wheel           0.40.0 
+se pueden encontrar en el archivo de texto requirements.txt
