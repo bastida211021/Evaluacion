@@ -1,0 +1,159 @@
+{
+  "client_code": 50,
+  "route_name": "Reynosa - Monterrey",
+  "route_key": "reynosamty",
+  "origin": {
+    "name": "Reynosa",
+    "key": "reynosa1",
+    "address": "Calle 20 colonia sin nombres estado ficticio.",
+    "coordinates": [
+      [
+        [
+          "anfibio",
+          0
+        ],
+        [
+          101,
+          0
+        ],
+        [
+          101,
+          1
+        ],
+        [
+          100,
+          1
+        ]
+      ]
+    ]
+  },
+  "last_destination": {
+    "name": "Monterrey",
+    "key": "string",
+    "address": "Calle 20 colonia sin nombres estado ficticio.",
+    "coordinates": [
+      [
+        [
+          100,
+          0
+        ],
+        [
+          101,
+          0
+        ],
+        [
+          101,
+          "perro"
+        ],
+        [
+          100,
+          1
+        ]
+      ]
+    ]
+  },
+  "sectors": [
+    {
+      "sector_position": 0,
+      "sector_type": "start",
+      "geocode_route": [
+        "m_jsFlv}ViEkDWQsEqDu@m@",
+        "MKKoAqAaBeB}A_BGIAA}@_A_BaByA}AgA"
+      ],
+      "checkpoint": {
+        "name": "Comedor Las Palmas, Colima.",
+        "key": "comedor1",
+        "address": "Calle 20 colonia sin nombres estado ficticio.",
+        "type": "foods",
+        "update_time": 600,
+        "limit_time": 3600,
+        "coordinates": [
+          [
+            [
+              100,
+              0
+            ],
+            [
+              101,
+              0
+            ],
+            [
+              101,
+              1
+            ],
+            [
+              100,
+              1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "sector_position": 1,
+      "sector_type": "start",
+      "geocode_route": [
+        "m_jsFlv}ViEkDWQsEqDu@m@",
+        "MKKoAqAaBeB}A_BGIAA}@_A_BaByA}AgA"
+      ],
+      "checkpoint": {
+        "name": "Comedor Las Palmas, Colima.2",
+        "key": "comedor2",
+        "address": "Calle 20 colonia sin nombres estado ficticio.",
+        "type": "foods",
+        "update_time": 600,
+        "limit_time": 3600,
+        "coordinates": [
+          [
+            [
+              100,
+              0
+            ],
+            [
+              101,
+              0
+            ],
+            [
+              101,
+              1
+            ],
+            [
+              100,
+              1
+            ]
+          ]
+        ]
+      }
+    }
+  ],
+  "aois": [
+    {
+      "name": "Paradero el potosino.",
+      "key": "comedor1",
+      "address": "Calle 20 colonia sin nombres estado ficticio.",
+      "type": "foods",
+      "update_time": 600,
+      "limit_time": 3600,
+      "coordinates": [
+        [
+          [
+            100,
+            0
+          ],
+          [
+            101,
+            0
+          ],
+          [
+            101,
+            1
+          ],
+          [
+            100,
+            1
+          ]
+        ]
+      ]
+    }
+  ]
+}
